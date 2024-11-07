@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /*.jpg
+Disallow: /*.png
+Disallow: /archives/
+Disallow: /archives/*
+Disallow: /tags/*
+Disallow: /about/*
+Disallow: /about.html
+Disallow: /feed.json
